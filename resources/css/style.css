@@ -12,11 +12,13 @@ div {
 h1 {
     font-size: 70 px;
     color: white;
+    margin-bottom: 30px;
 }
 
 h2 {
     font-weight: 300;
     font-size: 42 px;
+    margin-bottom: 30px;
 }
 
 p {
@@ -29,9 +31,10 @@ a {
     font-size: 16 px;
 }
 
-img {
-    height: auto;
-    width: auto;
+.limited {
+    /* 896 × 527 */
+    height: 263px;
+    width: 448px;
 }
 
 .copyright {
